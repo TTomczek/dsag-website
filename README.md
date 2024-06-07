@@ -20,10 +20,10 @@ placeholder text and images.
 - [x] Webbasierte Lösungen
 - [x] Mobile Apps
 - [x] KI-Lösungen
-- [ ] Branchen
-- [ ] Energie
-- [ ] Öffentliche Verwaltung
-- [ ] Softwareentwicklung
+- [x] Branchen
+- [x] Energie
+- [x] Öffentliche Verwaltung
+- [x] Softwareentwicklung
 - [ ] Karriere
 - [x] Stellenangebote
 - [ ] Unternehmenskultur
