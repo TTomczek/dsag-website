@@ -4,7 +4,7 @@ A prototype website I made for a college project. The layout is made with Bootst
 placeholder text and images.
 
 ## Link
-https://github.com/TTomczek/dsag-website
+https://ttomczek.github.io/dsag-website/
 
 ## Placeholder
 
