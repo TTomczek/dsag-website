@@ -20,10 +20,10 @@ placeholder text and images.
 - [ ] Öffentliche Verwaltung
 - [ ] Softwareentwicklung
 - [ ] Karriere
-- [ ] Stellenangebote
+- [x] Stellenangebote
 - [ ] Unternehmenskultur
 - [x] Bewerbungsformular
 - [ ] Kontakt
 - [x] Kontaktformular
-- [ ] Standort und Anfahrt
+- [x] Standort und Anfahrt
 - [ ] Direkte Kommunikationswege
