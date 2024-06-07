@@ -24,11 +24,11 @@ placeholder text and images.
 - [x] Energie
 - [x] Öffentliche Verwaltung
 - [x] Softwareentwicklung
-- [ ] Karriere
+- [x] Karriere
 - [x] Stellenangebote
-- [ ] Unternehmenskultur
+- [x] Unternehmenskultur
 - [x] Bewerbungsformular
-- [ ] Kontakt
+- [x] Kontakt
 - [x] Kontaktformular
 - [x] Standort und Anfahrt
-- [ ] Direkte Kommunikationswege
+- [x] Direkte Kommunikationswege
