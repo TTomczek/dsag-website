@@ -7,14 +7,19 @@ placeholder text and images.
 
     https://dummyimage.com/
 
-##Checklist:
+## Texte
+
+    https://loremipsum.de/
+
+
+## Checklist:
 
 - [x] Startseite
 - [x] Über Uns
-- [ ] Leistungen
-- [ ] Webbasierte Lösungen
-- [ ] Mobile Apps
-- [ ] KI-Lösungen
+- [x] Leistungen
+- [x] Webbasierte Lösungen
+- [x] Mobile Apps
+- [x] KI-Lösungen
 - [ ] Branchen
 - [ ] Energie
 - [ ] Öffentliche Verwaltung
