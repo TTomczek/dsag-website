@@ -7,6 +7,10 @@ placeholder text and images.
 
     https://dummyimage.com/
 
+Background: f0f0f0
+Foreground: 000
+Text: Placeholder
+
 ## Texte
 
     https://loremipsum.de/
